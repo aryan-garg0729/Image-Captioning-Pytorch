@@ -54,7 +54,7 @@ Here are some cherry-picked results showcasing the caption generation capabiliti
 | <img src="https://github.com/aryan-garg0729/Image-Captioning-Pytorch/assets/155893692/d5132d1a-70aa-4f69-876f-c6f341767679" width="200" height="200"> | a man is standing on a snowy mountain with a mountain in the background |
 | <img src="https://github.com/aryan-garg0729/Image-Captioning-Pytorch/assets/155893692/25731157-10d9-48e2-b2d3-30decc95e725" width="200" height="200"> | a boy is jumping off of a water fountain |
    
-Feel free to explore the project and generate captions for your own images!
+Feel free to explore the project and generate captions for your own images [here](https://image-captioning-pytorch.streamlit.app/).
 
 ## Acknowledgements
 
@@ -65,4 +65,4 @@ Feel free to explore the project and generate captions for your own images!
   
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
