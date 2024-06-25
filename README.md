@@ -2,7 +2,7 @@
 ---
 This project aims to generate captions for images using an encoder-decoder architecture implemented in PyTorch. The model is trained on the Flickr8k dataset, a widely used benchmark dataset for image captioning tasks. The implementation provides a user-friendly interface deployed on Streamlit Cloud for generating captions for custom images.
 
-https://github.com/aryan-garg0729/Image-Captioning-Pytorch/assets/155893692/b6851129-330e-4899-ac54-18aee2d5eeea
+https://github.com/aryan-garg0729/Image-Captioning-Pytorch/assets/155893692/9fb22f42-c370-4a07-9621-be5be2bcb544
 
 ## Installation
 
